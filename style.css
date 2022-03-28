@@ -35,3 +35,18 @@
 .body {
     background-color: rgb(209, 209, 207);
 }
+
+#lasagna-img {
+    height: auto;
+    width: 800px;
+}
+
+#ham-sandwich-img {
+    height: auto;
+    width: 800px;
+}
+
+#tomato-soup-img {
+    height: auto;
+    width: 800px;
+}
