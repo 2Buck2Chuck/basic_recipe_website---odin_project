@@ -1,4 +1,4 @@
-# odin-recipes
+# basic_recipe_website---odin_project
 A practice project to better learn HTML
 
 
